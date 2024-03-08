@@ -1,0 +1,15 @@
+C:\Users\aliul\Desktop\csharp\kNN\bin\Debug\net6.0\kNN.exe
+C:\Users\aliul\Desktop\csharp\kNN\bin\Debug\net6.0\kNN.deps.json
+C:\Users\aliul\Desktop\csharp\kNN\bin\Debug\net6.0\kNN.runtimeconfig.json
+C:\Users\aliul\Desktop\csharp\kNN\bin\Debug\net6.0\kNN.dll
+C:\Users\aliul\Desktop\csharp\kNN\bin\Debug\net6.0\kNN.pdb
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.csproj.AssemblyReference.cache
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.AssemblyInfoInputs.cache
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.AssemblyInfo.cs
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.csproj.CoreCompileInputs.cache
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.dll
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\refint\kNN.dll
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.pdb
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\kNN.genruntimeconfig.cache
+C:\Users\aliul\Desktop\csharp\kNN\obj\Debug\net6.0\ref\kNN.dll
